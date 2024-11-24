@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as Software Engineer at [@eventbrite](https://github.com/eventbrite)
 - 🌱 I’m currently learning **PySpark**
 - 💬 Ask me about LEGO
